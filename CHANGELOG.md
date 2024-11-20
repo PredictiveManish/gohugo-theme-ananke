@@ -230,7 +230,7 @@
 
 ### Theme
 
-* **fix:** replace deprecated resources.ToCSS with css.Sass ([321680f](https://github.com/thenewdynamic/gohugo-theme-ananke/commit/321680f6ee8f36ffa900ba5ab55b1d60ddfe258b)), closes [#712](https://github.com/thenewdynamic/gohugo-theme-ananke/issues/712)
+* **fix:** replace deprecated css.Sass with css.Sass ([321680f](https://github.com/thenewdynamic/gohugo-theme-ananke/commit/321680f6ee8f36ffa900ba5ab55b1d60ddfe258b)), closes [#712](https://github.com/thenewdynamic/gohugo-theme-ananke/issues/712)
 * **i18n:** add indonesian language ([#672](https://github.com/thenewdynamic/gohugo-theme-ananke/issues/672)) ([53463ff](https://github.com/thenewdynamic/gohugo-theme-ananke/commit/53463ffaa20adb213452ee39baa2223a34b63600))
 
 ### Refactors
